@@ -1,0 +1,3 @@
+[submodule "my-first-cra"] 
+  path = my-first-cra
+  url = git://github.com/facebook/create-react-app.git
