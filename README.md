@@ -1,2 +1,4 @@
 # frontend_intern_onboarding
-NodeJS Tutorial and Basics
+React Tutorial and Basics
+
+## Creating my personal website
